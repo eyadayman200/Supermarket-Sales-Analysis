@@ -68,13 +68,13 @@ The project explores:
 ## 🖼️ Dashboard Preview
 
 ### Sales Overview
-![Executive Overview](./Screenshots/1.jpg)
+![Executive Overview](./SuperMarket%20Sales%20Analysis/Screenshots/1.jpg)
 
 ### Profit Analysis
-![Product & Profitability](./Screenshots/2.jpg)
+![Product & Profitability](./SuperMarket%20Sales%20Analysis/Screenshots/2.jpg)
 
 ### Product Returns
-![Customer & Returns Analysis](./Screenshots/3.jpg)
+![Customer & Returns Analysis](./SuperMarket%20Sales%20Analysis/Screenshots/3.jpg)
 
 ## 👨‍💻 Author
 
